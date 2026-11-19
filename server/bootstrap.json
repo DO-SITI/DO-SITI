@@ -1,0 +1,132 @@
+{
+  "menus": [
+    {
+      "id": "menu-donat-rose-berry",
+      "name": "Brioche Rose Berry",
+      "category": "Donat",
+      "price": 24000,
+      "stock": 18,
+      "description": "Donat brioche fermentasi lambat dengan glasir raspberry mawar yang lembut dan taburan kelopak mawar kering serta pistachio.",
+      "imageUrl": "/src/assets/images/donut_rose_berry_1795086666461.jpg",
+      "isAvailable": true,
+      "highlight": "Favorit"
+    },
+    {
+      "id": "menu-donat-vanilla-pistachio",
+      "name": "Vanilla Bean Pistachio",
+      "category": "Donat",
+      "price": 26000,
+      "stock": 14,
+      "description": "Adonan donat empuk berlapis krim vanila Madagaskar asli, lelehan cokelat putih, dan pistachio panggang cincang.",
+      "imageUrl": "/src/assets/images/donut_matcha_cream_1795086666050.jpg",
+      "isAvailable": true,
+      "highlight": "Baru"
+    },
+    {
+      "id": "menu-donat-choco-hazelnut",
+      "name": "Bomboloni Dark Hazelnut",
+      "category": "Donat",
+      "price": 28000,
+      "stock": 9,
+      "description": "Bomboloni isi ganache cokelat hitam 64% yang lumer di dalam dengan taburan kakao halus dan hazelnut panggang.",
+      "imageUrl": "/src/assets/images/donut_choco_hazelnut_1795086666592.jpg",
+      "isAvailable": true,
+      "highlight": "Terlaris"
+    },
+    {
+      "id": "menu-donat-velvet-classic",
+      "name": "Velvet Berry Cream Ring",
+      "category": "Donat",
+      "price": 23000,
+      "stock": 12,
+      "description": "Donat cincin klasik dengan lapisan krim berry velvet lembut dan sentuhan manis seimbang untuk teman minum kopi.",
+      "imageUrl": "/src/assets/images/hero_dositi_spread_1795086667502.jpg",
+      "isAvailable": true
+    },
+    {
+      "id": "menu-donat-cokelat-cherry",
+      "name": "Donat Cokelat Cherry Klasik",
+      "category": "Donat",
+      "price": 22000,
+      "stock": 16,
+      "description": "Donat empuk bertabur serutan cokelat hitam melimpah dengan buah ceri manis di tengahnya, favorit klasik segala suasana.",
+      "imageUrl": "/src/assets/images/donut_choco_hazelnut_1795086666592.jpg",
+      "isAvailable": true,
+      "highlight": "Favorit"
+    },
+    {
+      "id": "menu-donat-stroberi-sprinkle",
+      "name": "Donat Stroberi Sprinkle",
+      "category": "Donat",
+      "price": 20000,
+      "stock": 20,
+      "description": "Donat lembut dengan glasir stroberi merah muda yang manis segar dan taburan sprinkle warna-warni.",
+      "imageUrl": "/src/assets/images/donut_rose_berry_1795086666461.jpg",
+      "isAvailable": true
+    },
+    {
+      "id": "menu-minuman-rose-latte",
+      "name": "Iced Rose Velvet Latte",
+      "category": "Minuman",
+      "price": 32000,
+      "stock": 22,
+      "description": "Espresso single origin berpadu susu mawar vanila dingin dan foam krim lembut di atasnya.",
+      "imageUrl": "/src/assets/images/drink_rose_latte_1795086667182.jpg",
+      "isAvailable": true,
+      "highlight": "Signature"
+    },
+    {
+      "id": "menu-minuman-berry-matcha",
+      "name": "Strawberry Matcha Cloud",
+      "category": "Minuman",
+      "price": 34000,
+      "stock": 16,
+      "description": "Lapisan puree stroberi segar buatan dapur sendiri, susu dingin, dan matcha seremonial Uji.",
+      "imageUrl": "/src/assets/images/drink_berry_matcha_1795086666533.jpg",
+      "isAvailable": true,
+      "highlight": "Favorit"
+    },
+    {
+      "id": "menu-minuman-thai-tea",
+      "name": "Iced Thai Milk Tea",
+      "category": "Minuman",
+      "price": 24000,
+      "stock": 25,
+      "description": "Seduhan teh Thailand autentik dengan susu evaporasi creamy dan manis karamel yang menyegarkan.",
+      "imageUrl": "/src/assets/images/drink_rose_latte_1795086667182.jpg",
+      "isAvailable": true,
+      "highlight": "Terlaris"
+    },
+    {
+      "id": "menu-minuman-matcha-latte",
+      "name": "Iced Creamy Matcha Latte",
+      "category": "Minuman",
+      "price": 28000,
+      "stock": 18,
+      "description": "Matcha hijau pekat berpadu susu segar dingin untuk teman ngemil donat manis.",
+      "imageUrl": "/src/assets/images/drink_berry_matcha_1795086666533.jpg",
+      "isAvailable": true
+    },
+    {
+      "id": "menu-minuman-choco-latte",
+      "name": "Iced Belgian Choco Latte",
+      "category": "Minuman",
+      "price": 29000,
+      "stock": 15,
+      "description": "Cokelat Belgia dingin dengan tekstur kental lembut dan susu segar pilihan.",
+      "imageUrl": "/src/assets/images/drink_rose_latte_1795086667182.jpg",
+      "isAvailable": true
+    },
+    {
+      "id": "menu-minuman-teh-botol-mineral",
+      "name": "Paket Segar Teh Melati & Mineral",
+      "category": "Minuman",
+      "price": 15000,
+      "stock": 30,
+      "description": "Pilihan minuman praktis penyegar dahaga: teh melati botol dingin atau air mineral kemasan sejuk.",
+      "imageUrl": "/src/assets/images/drink_berry_matcha_1795086666533.jpg",
+      "isAvailable": true
+    }
+  ],
+  "orders": []
+}

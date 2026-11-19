@@ -1,0 +1,6 @@
+{
+  "name": "Do-Siti",
+  "description": "Aplikasi web pemesanan dan pengelolaan menu donat artisanal serta minuman craft dengan tema dark-soft elegan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
